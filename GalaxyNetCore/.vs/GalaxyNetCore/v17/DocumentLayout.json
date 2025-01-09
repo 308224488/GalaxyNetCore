@@ -3,11 +3,18 @@
   "WorkspaceRootPath": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1846EDA-2E42-4FB9-A29B-538F4243B9E2}|..\\GalaxyNetCore.Infrastructure\\GalaxyNetCore.Infrastructure.csproj|c:\\\u5408\u4E00\\.net core\\galaxynetcore\\galaxynetcore.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{316E301D-8340-475A-96A0-2F3B4A0432ED}|GalaxyNetCore.csproj|c:\\\u5408\u4E00\\.net core\\galaxynetcore\\galaxynetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316E301D-8340-475A-96A0-2F3B4A0432ED}|GalaxyNetCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A2FCF2-68B7-4636-9235-52ECBE37EA0A}|..\\GalaxyNetCore.Application\\GalaxyNetCore.Application.csproj|c:\\\u5408\u4E00\\.net core\\galaxynetcore\\galaxynetcore.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316E301D-8340-475A-96A0-2F3B4A0432ED}|GalaxyNetCore.csproj|c:\\\u5408\u4E00\\.net core\\galaxynetcore\\galaxynetcore\\remark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316E301D-8340-475A-96A0-2F3B4A0432ED}|GalaxyNetCore.csproj|solutionrelative:remark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1846EDA-2E42-4FB9-A29B-538F4243B9E2}|..\\GalaxyNetCore.Infrastructure\\GalaxyNetCore.Infrastructure.csproj|c:\\\u5408\u4E00\\.net core\\galaxynetcore\\galaxynetcore.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B1D8BE9-B9E2-4242-9FA3-D07A9EA33C01}|..\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj|c:\\\u5408\u4E00\\.net core\\galaxynetcore\\galaxynetcore.domain\\entities\\tradingpair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -41,24 +48,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\GalaxyNetCore.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\GalaxyNetCore.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA2wDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:42:52.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Remark.cs",
+              "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\Remark.cs",
+              "RelativeDocumentMoniker": "Remark.cs",
+              "ToolTip": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\Remark.cs",
+              "RelativeToolTip": "Remark.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv2EAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:39:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T12:34:37.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TradingPair.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\Entities\\TradingPair.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Domain\\Entities\\TradingPair.cs",
@@ -71,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TradeHistory.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\Entities\\TradeHistory.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Domain\\Entities\\TradeHistory.cs",
@@ -84,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TimeFrame.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\Entities\\TimeFrame.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Domain\\Entities\\TimeFrame.cs",
@@ -101,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "StrategyConfig.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\Entities\\StrategyConfig.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Domain\\Entities\\StrategyConfig.cs",
@@ -114,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RiskManagementConfig.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\Entities\\RiskManagementConfig.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Domain\\Entities\\RiskManagementConfig.cs",
@@ -127,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MarketDatum.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\Entities\\MarketDatum.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Domain\\Entities\\MarketDatum.cs",
@@ -140,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -153,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Log.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\Entities\\Log.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Domain\\Entities\\Log.cs",
@@ -166,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Remark.cs",
               "DocumentMoniker": "C:\\\u5408\u4E00\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Infrastructure\\Remark.cs",
               "RelativeDocumentMoniker": "..\\GalaxyNetCore.Infrastructure\\Remark.cs",
