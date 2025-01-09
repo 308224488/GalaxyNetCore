@@ -1,0 +1,6 @@
+@GalaxyNetCore_HostAddress = http://localhost:5054
+
+GET {{GalaxyNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
