@@ -39,6 +39,63 @@ namespace GalaxyNetCore
         //包含仓储实现、数据库上下文等。
         #endregion
 
+        #region 项目结构
+        //    GalaxyNetCore
+        //│
+        //├─ API
+        //│  ├─ Controllers                   # Web API 控制器
+        //│  ├─ Models(DTOs)                 # 数据传输对象
+        //│  ├─ Filters                       # 请求拦截器或过滤器（例如认证、日志等）
+        //│  └─ Middlewares                   # 中间件
+        //│
+        //├─ Application
+        //│  ├─ UserModule                    # 用户模块
+        //│  │  ├─ Services                   # 用户模块的应用服务
+        //│  │  ├─ DTOs                       # 用户模块的数据传输对象（DTOs）
+        //│  │  ├─ Commands                   # 用户模块的命令对象
+        //│  │  └─ Handlers                   # 处理命令的处理器
+        //│  ├─ OrderModule                   # 订单模块
+        //│  │  ├─ Services                   # 订单模块的应用服务
+        //│  │  ├─ DTOs                       # 订单模块的数据传输对象（DTOs）
+        //│  │  ├─ Commands                   # 订单模块的命令对象
+        //│  │  └─ Handlers                   # 处理命令的处理器
+        //│  ├─ Shared                        # 通用服务
+        //│  │  ├─ Utilities                  # 工具类
+        //│  │  ├─ Interfaces                 # 通用接口
+        //│  │  └─ CommonServices             # 公共应用服务
+        //│
+        //├─ Domain
+        //│  ├─ UserModule                    # 用户模块
+        //│  │  ├─ Entities                   # 用户实体（例如：User）
+        //│  │  ├─ ValueObjects               # 用户值对象（例如：UserProfile）
+        //│  │  ├─ Aggregates                 # 用户聚合根（例如：UserAggregate）
+        //│  │  └─ DomainServices             # 用户领域服务
+        //│  ├─ OrderModule                   # 订单模块
+        //│  │  ├─ Entities                   # 订单实体（例如：Order）
+        //│  │  ├─ ValueObjects               # 订单值对象
+        //│  │  ├─ Aggregates                 # 订单聚合根
+        //│  │  └─ DomainServices             # 订单领域服务
+        //│  └─ Common                        # 公共领域逻辑
+        //│     ├─ Entities                   # 公共领域实体（例如：BaseEntity）
+        //│     ├─ ValueObjects               # 公共领域值对象
+        //│     ├─ Aggregates                 # 公共聚合根
+        //│     └─ DomainServices             # 公共领域服务
+        //│
+        //├─ Infrastructure
+        //│  ├─ Data
+        //│  │  ├─ ApplicationDbContext.cs    # 数据上下文（DbContext）
+        //│  ├─ Repositories                  # 仓储接口与实现
+        //│  │  ├─ UserRepository.cs          # 用户仓储接口与实现
+        //│  │  ├─ OrderRepository.cs         # 订单仓储接口与实现
+        //│  ├─ ExternalServices              # 外部服务接口与实现（例如：第三方支付、通知服务等）
+        //│  └─ Migrations                    # 数据库迁移
+        //│
+        //└─ Common
+        //   ├─ Exceptions                    # 异常处理
+        //   ├─ Middlewares                   # 中间件（例如日志、异常捕获等）
+        //   └─ Utilities                     # 公共工具类
+
+        #endregion
 
         #region GalaxyNetCore.Domain
         //职责：
@@ -97,5 +154,8 @@ namespace GalaxyNetCore
         //Scaffold-DbContext "Server=DESKTOP-1761J6B\MSSQLSERVER2023;Database=AutoTradingSystem;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -ContextDir Data -Context ApplicationDbContext -Force
         #endregion
 
+        #region 获取项目Tree
+        //tree "C:\合一\.NET CORE\GALAXYNETCore" /F > "C:\合一\.NET CORE\GALAXYNETCore\project_tree.txt"
+        #endregion
     }
 }

@@ -1,0 +1,12 @@
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\bin\Debug\net8.0\GalaxyNetCore.Domain.deps.json
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\bin\Debug\net8.0\GalaxyNetCore.Domain.dll
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\bin\Debug\net8.0\GalaxyNetCore.Domain.pdb
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\GalaxyNetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\GalaxyNetCore.Domain.AssemblyInfoInputs.cache
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\GalaxyNetCore.Domain.AssemblyInfo.cs
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\GalaxyNetCore.Domain.csproj.CoreCompileInputs.cache
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\GalaxyNetCore.Domain.sourcelink.json
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\GalaxyNetCore.Domain.dll
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\refint\GalaxyNetCore.Domain.dll
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\GalaxyNetCore.Domain.pdb
+C:\合一\.NET CORE\GalaxyNetCore\GalaxyNetCore.Domain\obj\Debug\net8.0\ref\GalaxyNetCore.Domain.dll

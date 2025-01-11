@@ -1,5 +1,5 @@
 // 引用 Application 层的接口，包括 IRepository<> 和 IUnitOfWork
-using GalaxyNetCore.Application.Interfaces;
+using GalaxyNetCore.Application.Shared.Interfaces;
 // 引用 Infrastructure 层的仓储实现，包括 Repository<> 和 UnitOfWork
 using GalaxyNetCore.Infrastructure.Repositories;
 // 引用 Entity Framework Core，用于数据库上下文配置

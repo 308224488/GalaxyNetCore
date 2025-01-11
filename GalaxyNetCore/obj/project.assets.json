@@ -5233,9 +5233,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\GalaxyNetCore.csproj",
-      "projectName": "GalaxyNetCore",
-      "projectPath": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\GalaxyNetCore.csproj",
+      "projectUniqueName": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\GalaxyNetCore.WebApi.csproj",
+      "projectName": "GalaxyNetCore.WebApi",
+      "projectPath": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\GalaxyNetCore.WebApi.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore\\obj\\",
       "projectStyle": "PackageReference",

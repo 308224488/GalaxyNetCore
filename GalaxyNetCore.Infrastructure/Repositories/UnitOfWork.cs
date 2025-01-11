@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GalaxyNetCore.Application.Interfaces;
-using GalaxyNetCore.Infrastructure.Configurations;
+using GalaxyNetCore.Application.Shared.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using GalaxyNetCore.Infrastructure.Data;
 
 namespace GalaxyNetCore.Infrastructure.Repositories
 {

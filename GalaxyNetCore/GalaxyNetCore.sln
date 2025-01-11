@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyNetCore", "GalaxyNetCore.csproj", "{316E301D-8340-475A-96A0-2F3B4A0432ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyNetCore.WebApi", "GalaxyNetCore.WebApi.csproj", "{316E301D-8340-475A-96A0-2F3B4A0432ED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyNetCore.Domain", "..\GalaxyNetCore.Domain\GalaxyNetCore.Domain.csproj", "{7B1D8BE9-B9E2-4242-9FA3-D07A9EA33C01}"
 EndProject

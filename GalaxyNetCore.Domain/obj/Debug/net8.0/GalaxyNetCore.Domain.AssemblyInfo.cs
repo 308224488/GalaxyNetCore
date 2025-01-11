@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GalaxyNetCore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e31faa9888b4537191da984bfdff3d2fd3e357fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cc830b15a2c7cadcec936a766d19486ae26e4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GalaxyNetCore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GalaxyNetCore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
