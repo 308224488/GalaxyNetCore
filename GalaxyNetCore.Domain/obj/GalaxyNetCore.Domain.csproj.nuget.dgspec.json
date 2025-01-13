@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj": {}
+    "C:\\HeYi\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj": {
+    "C:\\HeYi\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj",
+        "projectUniqueName": "C:\\HeYi\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj",
         "projectName": "GalaxyNetCore.Domain",
-        "projectPath": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj",
+        "projectPath": "C:\\HeYi\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\GalaxyNetCore.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\合一\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\obj\\",
+        "outputPath": "C:\\HeYi\\.NET CORE\\GalaxyNetCore\\GalaxyNetCore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -24,4 +24,12 @@
     <ProjectReference Include="..\GalaxyNetCore.Domain\GalaxyNetCore.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Exceptions\" />
+    <Folder Include="Common\Middlewares\" />
+    <Folder Include="Common\Utilities\" />
+    <Folder Include="ExternalServices\" />
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

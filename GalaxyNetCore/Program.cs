@@ -6,6 +6,7 @@ using GalaxyNetCore.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 // 引用 Infrastructure 层的数据访问，包括 ApplicationDbContext
 using GalaxyNetCore.Infrastructure.Data;
+using GalaxyNetCore.Application.Shared.CommonServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +19,8 @@ builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
 // 注册工作单元接口 IUnitOfWork 和其实现 UnitOfWork
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+//注册应用层服务
+builder.Services.AddApplicationServices();
 // 添加控制器服务到依赖注入容器
 builder.Services.AddControllers();
 
